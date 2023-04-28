@@ -1,3 +1,7 @@
+A counter app is a simple software program that allows users to increment or decrement a count value with the click of a button. The app typically features a large numerical display that shows the current count value, along with buttons labeled with plus and minus signs to increment and decrement the count, respectively.
+
+When the user clicks on the plus button, the count value will be increased by one. Similarly, when the user clicks on the minus button, the count value will be decreased by one. 
+
 ## User Interface
 
 ![Screenshot 2023-04-28 104450](https://user-images.githubusercontent.com/72275107/235108799-12f9ebb2-f7b6-4849-9b6d-2299685e2f77.png)
